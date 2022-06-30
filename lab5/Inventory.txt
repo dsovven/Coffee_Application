@@ -1,0 +1,7 @@
+Last order number: 5
+Black Coffee = 8
+Milk = 5
+Hot Water = 6
+Espresso = 6
+Sugar = 17
+Whipped Cream = 12

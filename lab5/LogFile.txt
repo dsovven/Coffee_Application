@@ -1,0 +1,150 @@
+
+
+Writing orders from stack 2022-06-29 at 11:56:21 PDT
+
+RECEIPT
+Cashier: Jack - ID number: 1234
+Order number:1
+Item 1: A Black Coffee withBlack coffee | cost:0.85
+Item 2: A Black Coffee withBlack coffee | cost:0.85
+TOTAL COST OF ORDER:1.7
+
+RECEIPT
+Cashier: Jack - ID number: 1234
+Order number:2
+Item 1: A Black Coffee with - milk - milk | cost:2.0
+TOTAL COST OF ORDER:2.0
+
+
+
+Writing orders from stack 2022-06-29 at 11:58:49 PDT
+
+RECEIPT
+Cashier: john - ID number: 124
+Order number:1
+Item 1: A Black Coffee withBlack coffee | cost:0.85
+TOTAL COST OF ORDER:0.85
+
+RECEIPT
+Cashier: john - ID number: 124
+Order number:2
+Item 1: A Black Coffee with - Espresso Shot - Espresso Shot | cost:2.4
+TOTAL COST OF ORDER:2.4
+
+
+
+Writing orders from stack 2022-06-29 at 15:15:55 PDT
+
+RECEIPT
+Cashier: joe - ID number: 2
+Order number: 0
+Item 1: A Black Coffee withBlack coffee | cost:0.85
+TOTAL COST OF ORDER:0.85
+
+
+
+Writing orders from stack 2022-06-29 at 15:18:41 PDT
+
+RECEIPT
+Cashier: joe - ID number: 4
+Order number: 0
+Item 1: A Black Coffee withBlack coffee | cost:0.85
+Item 2: A Black Coffee withBlack coffee | cost:0.85
+TOTAL COST OF ORDER:1.7
+
+RECEIPT
+Cashier: joe - ID number: 4
+Order number: 1
+Item 1: A Black Coffee withBlack coffee | cost:0.85
+TOTAL COST OF ORDER:0.85
+
+
+
+Writing orders from stack 2022-06-29 at 15:19:52 PDT
+
+RECEIPT
+Cashier: h - ID number: 2
+Order number: 0
+Item 1: A Black Coffee withBlack coffee | cost:0.85
+TOTAL COST OF ORDER:0.85
+
+RECEIPT
+Cashier: h - ID number: 2
+Order number: 1
+Item 1: A Black Coffee withBlack coffee | cost:0.85
+TOTAL COST OF ORDER:0.85
+
+
+
+Writing orders from stack 2022-06-29 at 15:29:54 PDT
+
+RECEIPT
+Cashier: joe - ID number: 2
+Order number: 0
+Item 1: A Black Coffee withBlack coffee | cost:0.85
+TOTAL COST OF ORDER:0.85
+
+
+
+Writing orders from stack 2022-06-29 at 15:30:48 PDT
+
+RECEIPT
+Cashier: Unknown - ID number: 0
+Order number: 0
+Item 1: A Black Coffee withBlack coffee | cost:0.85
+TOTAL COST OF ORDER:0.85
+
+RECEIPT
+Cashier: Unknown - ID number: 0
+Order number: 1
+Item 1: A Black Coffee withBlack coffee | cost:0.85
+TOTAL COST OF ORDER:0.85
+
+
+
+Writing orders from stack 2022-06-29 at 15:34:55 PDT
+
+RECEIPT
+Cashier: Unknown - ID number: 0
+Order number: 3
+Item 1: A Black Coffee withBlack coffee | cost:0.85
+TOTAL COST OF ORDER:0.85
+
+RECEIPT
+Cashier: Unknown - ID number: 0
+Order number: 4
+Item 1: A Black Coffee withBlack coffee | cost:0.85
+TOTAL COST OF ORDER:0.85
+
+
+
+Writing orders from stack 2022-06-29 at 15:36:06 PDT
+
+RECEIPT
+Cashier: Unknown - ID number: 0
+Order number: 100
+Item 1: A Black Coffee withBlack coffee | cost:0.85
+TOTAL COST OF ORDER:0.85
+
+RECEIPT
+Cashier: Unknown - ID number: 0
+Order number: 1
+Item 1: A Black Coffee withBlack coffee | cost:0.85
+TOTAL COST OF ORDER:0.85
+
+RECEIPT
+Cashier: Unknown - ID number: 0
+Order number: 2
+Item 1: A Black Coffee withBlack coffee | cost:0.85
+TOTAL COST OF ORDER:0.85
+
+
+
+Writing orders from stack 2022-06-29 at 21:03:47 PDT
+
+RECEIPT
+Cashier: Unknown - ID number: 0
+Order number: 4
+Item 1: A Black Coffee with - Espresso Shot - Espresso Shot - Espresso Shot - Espresso Shot | cost:6.550000000000001
+TOTAL COST OF ORDER:6.550000000000001
+
